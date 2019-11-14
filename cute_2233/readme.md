@@ -1,5 +1,5 @@
 # poster-girl-l2d-2233
-2233娘的 Live2D 看板娘插件(WordPress)！
+血小板 板娘的 Live2D 看板娘插件(WordPress)！
 
 [Demo: https://moedog.org/946.html](https://moedog.org/946.html)
 
@@ -16,8 +16,6 @@
 
 ## 配置
 此插件需要 JQuery 支持，如果你的主题并没有引入，请编辑插件 `index.php` 引入
-
-此插件包含果体模型，默认是不显示的，如有需要请编辑 `model/api.php` 文件
 
 此插件默认第一次访问为随机加载模型，如需指定请编辑 `model/api.php` 文件
 
