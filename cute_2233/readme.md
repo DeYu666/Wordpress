@@ -23,15 +23,15 @@
 
 另外，服务器需要允许下列 MIME 类型才可以正常使用：.json / .moc / .mtn
 
-## 感谢
-感谢 [@huzikai0424](https://github.com/huzikai0424) [@SkiTiSu](https://github.com/SkiTiSu) 对 waifu-tips.js 的优化。
 
-## 授权
-由于原项目使用 GPL 2.0 协议，故本项目也采用相同的开源协议进行授权。
+## 原始文件
 
-另，2233 版权归 bilibili 所有！
+2233娘的下载插件： https://github.com/xb2016/poster-girl-l2d-2233
 
-原创不易！如果喜欢本项目，请 Star 它以示对我的支持
+血小板model下载地址:  https://cdn.imjad.cn/usr/uploads/kesshouban_v2.7z
+
+## 备注
+2233娘的原始文件以及代码均没有删除，全部都注释了。注释代码，以及22  33 文件夹均可删除，对血小板没有影响。
 
 ## 使用的开源项目
  - [Live2D-Src](https://github.com/journey-ad/live2d_src)
